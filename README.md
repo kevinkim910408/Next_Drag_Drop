@@ -1,4 +1,4 @@
 # Drag and Drop
 ## Next.js + Chakra + react-beautiful-dnd
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59503331/187840139-b53d66d4-6d77-404f-b119-7eb7f3e116ce.gif)
+![8](https://user-images.githubusercontent.com/59503331/187841340-16c3100c-33a1-4e49-8882-2415a82d12b7.gif)
